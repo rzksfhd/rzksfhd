@@ -1,7 +1,7 @@
 - 👋 I'm @rzksfhd 
 - 🔭 I’m interested in Technology
 - 🌱 I’m currently learning Data
-- 👯 I’m looking to collaborate on any Data project
+- 👯 I’m looking to collaborate on any Data Analyst project
 - 📫 Want to reach me? Just email me: rizki.s.ahmad@gmail.com
 
 <!--
